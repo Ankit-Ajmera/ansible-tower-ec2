@@ -1,4 +1,4 @@
-- hosts: localhost jksdfks
+- hosts: localhost
   roles:
   - infra
 
